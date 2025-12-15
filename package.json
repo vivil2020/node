@@ -7,7 +7,7 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "build": "yarn build",
-    "dev": "yarn dev"
+    "build": "npm src/server.js",
+    "dev": "npm src/server.js"
   }
 }
