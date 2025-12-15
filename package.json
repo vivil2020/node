@@ -7,7 +7,7 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "build": "npm src/server.js",
-    "dev": "npm src/server.js"
+    "build": "node ./src/server.js",
+    "dev": "node ./src/server.js"
   }
 }
